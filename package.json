@@ -1,0 +1,29 @@
+{
+  "name": "chitchat",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "^2.4.9",
+    "@angular/compiler": "^2.4.9",
+    "@angular/core": "^2.4.9",
+    "@angular/forms": "^2.4.9",
+    "@angular/http": "^2.4.9",
+    "@angular/platform-browser": "^2.4.9",
+    "@angular/platform-browser-dynamic": "^2.4.9",
+    "@angular/platform-server": "^2.4.9",
+    "@angular/router": "^3.4.9",
+    "@angular/upgrade": "^2.4.9",
+    "angular-in-memory-web-api": "^0.3.1",
+    "core-js": "^2.4.1",
+    "http-server": "^0.9.0",
+    "ie-shim": "^0.1.0",
+    "jquery": "^3.1.1",
+    "ng-semantic": "^1.1.13",
+    "pg": "^6.1.2",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.2.0",
+    "sails": "^0.12.13",
+    "zone.js": "^0.8.0"
+  }
+}

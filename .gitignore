@@ -1,0 +1,17 @@
+# IDE
+.idea/
+
+# Logs
+*.log
+
+# Deps
+node_modules/
+
+# Compiled
+client/public/
+
+# Devfiles
+devfiles/
+
+# _test _
+_test_/
